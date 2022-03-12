@@ -1,0 +1,5 @@
+En başarılısı Dense-Optical flow, Mini projede gözlemleyebilirsin.
+
+Bunun dışında şu linklerde hazır tracking algoritmaları var :
+1)https://www.pyimagesearch.com/2018/07/30/opencv-object-tracking/
+2)https://www.learnopencv.com/goturn-deep-learning-based-object-tracking/

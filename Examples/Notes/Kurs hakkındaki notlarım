@@ -1,0 +1,44 @@
+Why Computer Vision is so hard?
+- Camera Sensors and Limitations(kamera sensör ve limitleri)
+- Viewpoint Variations (Bakış açısı varyasyonları)
+- Scaling (Boyutlandırma)
+- Non-Rigid Deformations(Hareketli olmayan bozulmalar)
+- Occlusions(objelerin üst üste binmesi, kapanma)
+- Clutter(Dağınıklık, karışıklık)
+- Object Class Variations(Obje sınıfı varyasyonları)
+- Ambiguous Images/Optical Illısuons(Belirsiz görüntüler, Optik ilüzyonlar)
+
+
+Working Areas Of Computer Vision
+* Robotic Navigation - Self Driving Cars
+* Face Detection & Recognition
+* Search Engine Image Search
+* Licence Plate Reading
+* Handwriting Recognition
+* Snapchat & MSQRD Face Filters
+* Object Recognition
+* Ball & Player Tracking in Sports
+* And many more(check anytime)
+
+Key Areas of Computer Vision
+* Image Manipulations
+* Image Segmentation
+* Object Detection
+* Face,People & Car Detection
+* Face Analysis & Filters
+* Machine Learning in Computer Vision
+* Motion Analysis & Object Tracking
+* Computational Photography
+
+Basics Of Computer Vision
+* Image Formations
+* Storing Images on Computers
+* Gray Scaling
+* Color Spaces
+* Histograms
+* Drawing Images
+
+**Aperture is like the “pupil” for your camera system, which can open and close to change the amount of light that passes through.
+Note the nine blades in this lens, which form a diaphragm to block any light that tries to pass, except through the center.
+Large aperture taks all light and show brighter image
+
